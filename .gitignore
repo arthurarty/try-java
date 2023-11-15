@@ -23,3 +23,6 @@
 # Dependency directories
 target/
 bin/
+
+# python
+venv
