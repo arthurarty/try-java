@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Dependency directories
+target/
+bin/
